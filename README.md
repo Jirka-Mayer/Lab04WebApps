@@ -18,6 +18,6 @@ chromium http://localhost:8080/
 
 ```sh
 npm install # project setup
-npm run dev # compile and hot-reload for development
+npm run serve # compile and hot-reload for development
 npm run build # compile and minify for production
 ```
